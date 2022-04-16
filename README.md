@@ -11,7 +11,7 @@
 <h1 align="center">Hi there, 👋 I'm Erika</h1>
 <h3 align="center">I'm a full stack software engineer</h3>
 
-<h4 align="center"> - 🌱 I’m currently learning HTML, CSS, JavaScript & the MERN stack @100Devs</h4>
+<h4 align="center"> 🌱 I’m currently learning HTML, CSS, JavaScript & the MERN stack @100Devs</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
