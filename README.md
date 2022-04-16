@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and the MERN stack @100Devs**
 
-- 👯 I’m looking to collaborate on **web development related projects**
-
 - 📫 How to reach me **: @erikateal_ on Twitter or erikamw2070@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
