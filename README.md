@@ -30,14 +30,14 @@
 </p>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erikateal&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>Most Used Languages</summary>
 
 <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikateal&layout=compact&theme=tokyonight" />
 
