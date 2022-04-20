@@ -28,3 +28,17 @@
 <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erikateal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erika-teal" height="30" width="40" /></a>
 </p>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erikateal&show_icons=true&hide_border=true&theme=tokyonight" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikateal&layout=compact&theme=tokyonight" />
+
+</details>
