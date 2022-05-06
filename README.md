@@ -8,6 +8,9 @@
 <!-- - 📫 How to reach me: @erikateal_ on Twitter! or via email at erikamw2070@gmail.com -->
 <!-- - ⚡ Fun fact: ... -->
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur" </p>
+  
 <h1 align="center">Hi there, 👋 I'm Erika</h1>
 <h4 align="center">I'm a full stack software engineer currently learning HTML, CSS, JavaScript & the MERN stack @100Devs</h4>
 
