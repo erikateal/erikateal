@@ -21,13 +21,9 @@
 			<div align="center" >
             &nbsp
 				<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=html5&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                             alt="HTML5" height="50" />
-					&nbsp&nbsp&nbsp 
                 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=css3&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="CSS3"                   height="50" />
-					&nbsp&nbsp&nbsp 
                 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=javascript&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                        alt="JavaScript" height="50" />
-					&nbsp&nbsp&nbsp 
                 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=react&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                             alt="React" height="50" />
-					&nbsp&nbsp&nbsp 
 			</div>
 			</td>
 		<td valign="top" width="45%">
@@ -38,13 +34,9 @@
 				<img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="MongoDB" height="50" />
                 &nbsp&nbsp&nbsp
                 <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=express&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Express" height="50" />
-                &nbsp&nbsp&nbsp
                 <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=git&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Git" height="50" />
-                &nbsp&nbsp&nbsp
                 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=javascript&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                        alt="JavaScript" height="50" />
-					&nbsp&nbsp&nbsp 
                 <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=node.js&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Node.js" height="50" />
-                &nbsp&nbsp&nbsp
 				<br>
 				<br>	
 			</div>
