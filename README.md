@@ -117,7 +117,7 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 </br>
 
 <!-- METRICS -->
-<h2 align="center" color="white">Metrics</h2>
+<!-- <h2 align="center" color="white">Metrics</h2>
 <details>
   <summary>GitHub Stats</summary>
 
@@ -130,4 +130,4 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 
 <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikateal&layout=compact&theme=tokyonight" />
 
-</details>
+</details> -->
