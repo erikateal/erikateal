@@ -10,7 +10,7 @@
 
 <!-- PROJECTS -->
 <h2 align="center" color="white">Projects (Coming Soon...)</h2>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-a6b4a2?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
  
 <!-- <h2 align="center" color="white">Projects</h2>
