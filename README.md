@@ -20,10 +20,10 @@
 			<br>
 			<div align="center" >
             &nbsp
-				<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=html5&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                             alt="HTML5" height="50" />
-                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=css3&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="CSS3"                   width="80" height="80" />
-                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=javascript&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                        alt="JavaScript" width="80" height="80" />
-                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=react&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                             alt="React" width="80" height="80" />
+				<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=html5&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                             alt="HTML5" height="80" />
+                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=css3&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="CSS3"                   height="80" />
+                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=javascript&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                        alt="JavaScript" height="80" />
+                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=react&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                             alt="React" height="80" />
 			</div>
 			</td>
 		<td valign="top" width="45%">
@@ -31,12 +31,12 @@
 			<br>
             <div align="center">
 			&nbsp
-				<img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="MongoDB" height="50" />
+				<img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="MongoDB" height="80" />
                 &nbsp&nbsp&nbsp
-                <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=express&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Express" width="80" height="80" />
+                <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=express&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Express" height="80" />
                 <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=git&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Git" height="50" />
-                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=javascript&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                        alt="JavaScript" width="80" height="80" />
-                <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=node.js&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Node.js" width="80" height="80" />
+                <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=javascript&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                        alt="JavaScript" height="80" />
+                <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=node.js&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Node.js" height="80" />
 				<br>
 				<br>	
 			</div>
@@ -51,9 +51,9 @@
 <!-- CONTACT -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linkedin&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="LinkedIn: www.linkedin.com/in/erika-teal" width="60" height="60" /></a>
-    <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="Twitter: www.twitter.com/erikateal_" width="60" height="60" /></a>
-    <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="email: erikatealdev@gmail.com" width="60" height="60" /></a>
+    <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linkedin&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="LinkedIn: www.linkedin.com/in/erika-teal" height="60" /></a>
+    <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="Twitter: www.twitter.com/erikateal_" height="60" /></a>
+    <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="email: erikatealdev@gmail.com" height="60" /></a>
 </p>
 
 <!-- METRICS -->
