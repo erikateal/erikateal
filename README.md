@@ -9,7 +9,7 @@
 <h4 align="center">I'm a full stack software engineer currently learning HTML, CSS, JavaScript & the MERN stack @100Devs</h4>
 
 <!-- PROJECTS -->
-
+<h2 align="center" color="white">Projects (Coming Soon...)</h2>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-a6b4a2?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
  
@@ -102,7 +102,7 @@
 </br>
 
 <!-- CONTACT -->
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
     <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linkedin&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="LinkedIn: www.linkedin.com/in/erika-teal" height="60" /></a>
     <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="Twitter: www.twitter.com/erikateal_" height="60" /></a>
@@ -110,6 +110,7 @@
 </p>
 
 <!-- METRICS -->
+<h2 align="center" color="white">Metrics</h2>
 <details>
   <summary>GitHub Stats</summary>
 
