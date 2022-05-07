@@ -9,14 +9,29 @@
 <h4 align="center">I'm a full stack software engineer currently learning HTML, CSS, JavaScript & the MERN stack @100Devs</h4>
 
 <!-- PROJECTS -->
-
+<h2 align="center" color="white">Languages & Tools</h2>
+<div align="center">
+<table>
+	<tr>
+		<td valign="top" width="45%">
+			<h3 align="center" color="white">Frontend</h3>
+			<br>
+				<div align="center" >
+            &nbsp
+				<img src="https://img.shields.io/badge/%20-Repo-a6b4a2?style=for-the-badge&logo=GitHub"                             alt="GitHub Repo"/>
+					<img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo"                             alt="Live Site"/>
+			</div>
+		</td>
+	</tr>
+</table>
+			
 <!-- LANGUAGES/TOOLS -->
 <h2 align="center" color="white">Languages & Tools</h2>
 <div align="center">
 <table>
 	<tr>
 		<td valign="top" width="45%">
-			<h3 align="center" color="white">Frontend</h2>
+			<h3 align="center" color="white">Frontend</h3>
 			<br>
 			<div align="center" >
             &nbsp
@@ -27,14 +42,14 @@
 			</div>
 			</td>
 		<td valign="top" width="45%">
-			<h3 align="center" color="white">Backend</h2>
+			<h3 align="center" color="white">Backend</h3>
 			<br>
             <div align="center">
 			&nbsp
 				<img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="MongoDB" height="80" />
                 &nbsp&nbsp&nbsp
                 <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=express&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Express" height="80" />
-                <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=git&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Git" height="50" />
+                <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=git&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Git" height="80" />
                 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=javascript&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                        alt="JavaScript" height="80" />
                 <img  src="https://img.shields.io/badge/-white?style=for-the-badge&logo=node.js&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)"                          alt="Node.js" height="80" />
 				<br>
