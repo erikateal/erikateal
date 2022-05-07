@@ -2,11 +2,13 @@
 <img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/headers/logo.png" alt="Erika Teal - Software Engineer Header"/>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur" 
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur">
+<br>
+Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, CSS, JavaScript & the MERN stack @100Devs. 
 </p>
-  
-<h1 align="center">Hi there 👋🏽 </h1>
-<h4 align="center">I'm a full stack software engineer currently learning HTML, CSS, JavaScript & the MERN stack @100Devs</h4>
+<!-- <p align="center">
+	...
+</p> -->
 
 <!-- PROJECTS -->
 <h2 align="center" color="white">Projects (Coming Soon...)</h2>
