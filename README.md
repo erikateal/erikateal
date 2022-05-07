@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/headers/logo1.png" alt="Erika Teal - Software Engineer Header"/>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=6001&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur" 
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=6001&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur" 
 </p>
   
 <!-- <h1 align="center">Hi there, 👋 I'm Erika</h1> -->
