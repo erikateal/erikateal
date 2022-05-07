@@ -6,15 +6,19 @@
 <br>
 Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, CSS, JavaScript & the MERN stack @100Devs. 
 </p>
+
 <!-- <p align="center">
 	...
 </p> -->
+</br>
+</br>
 
 <!-- PROJECTS -->
 <h2 align="center" color="white">Projects (Coming Soon...)</h2>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
- 
+</br>
+</br>
 <!-- <h2 align="center" color="white">Projects</h2>
 <div align="center">
   <table>
@@ -99,7 +103,6 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 	</tr>
 </table>
 </div>
-
 </br>
 </br>
 
@@ -110,6 +113,8 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
     <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="Twitter: www.twitter.com/erikateal_" height="60" /></a>
     <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="email: erikatealdev@gmail.com" height="60" /></a>
 </p>
+</br>
+</br>
 
 <!-- METRICS -->
 <h2 align="center" color="white">Metrics</h2>
