@@ -79,10 +79,10 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 			<br>
 			<div align="center" >
             	&nbsp
-		<img src="https://github.com/erikateal/READMEAssets/blob/main/icons/html5.svg" alt="HTML5" height="80" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/css3.svg" alt="CSS3" height="80" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="80" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/react.svg" alt="React" height="80" />
+		<img src="https://github.com/erikateal/READMEAssets/blob/main/icons/html5.svg" alt="HTML5" height="60" />
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/css3.svg" alt="CSS3" height="60" />
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="60" />
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/react.svg" alt="React" height="60" />
 			</div>
 			</td>
 		<td valign="top" width="45%">
@@ -90,12 +90,12 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 			<br>
             <div align="center">
 			&nbsp
-		<img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/mongodb.svg" alt="MongoDB" height="80" />
+		<img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/mongodb.svg" alt="MongoDB" height="60" />
 <!--                 &nbsp&nbsp&nbsp -->
-                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/express.svg" alt="Express" height="80" />
-                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/git.svg" alt="Git" height="80" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="80" />
-                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/nodedotjs.svg" alt="Node.js" height="80" />
+                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/express.svg" alt="Express" height="60" />
+                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/git.svg" alt="Git" height="60" />
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="60" />
+                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/nodedotjs.svg" alt="Node.js" height="60" />
 				<br>
 				<br>	
 			</div>
@@ -109,9 +109,9 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 <!-- CONTACT -->
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/linkedin.svg" alt="LinkedIn: www.linkedin.com/in/erika-teal" height="60" /></a>
-    <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/twitter.svg" alt="Twitter: www.twitter.com/erikateal_" height="60" /></a>
-    <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/gmail.svg" alt="email: erikatealdev@gmail.com" height="60" /></a>
+    <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/linkedin.svg" alt="LinkedIn: www.linkedin.com/in/erika-teal" height="50" /></a>
+    <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/twitter.svg" alt="Twitter: www.twitter.com/erikateal_" height="50" /></a>
+    <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/gmail.svg" alt="email: erikatealdev@gmail.com" height="50" /></a>
 	
 </p>
 </br>
