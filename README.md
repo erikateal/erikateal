@@ -112,6 +112,8 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
     <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linkedin&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="LinkedIn: www.linkedin.com/in/erika-teal" height="60" /></a>
     <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="Twitter: www.twitter.com/erikateal_" height="60" /></a>
     <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=a6b4a2&labelColor=rgba(255,69,0,%200.0)" alt="email: erikatealdev@gmail.com" height="60" /></a>
+	<a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://img.shields.io/badge/-rgb(0,0,0,0)?style=for-the-badge&logo=github&logoColor=a6b4a2" alt="email: erikatealdev@gmail.com" height="60" /></a>
+	
 </p>
 </br>
 </br>
