@@ -15,8 +15,10 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 
 <!-- PROJECTS -->
 <h2 align="center" color="white">Projects (Coming Soon...)</h2>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
-<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
+<p align="center">
+	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
+</p>
 </br>
 </br>
 <!-- <h2 align="center" color="white">Projects</h2>
@@ -79,10 +81,13 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 			<br>
 			<div align="center" >
             	&nbsp
-		<img src="https://github.com/erikateal/READMEAssets/blob/main/icons/html5.svg" alt="HTML5" height="60" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/css3.svg" alt="CSS3" height="60" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="60" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/react.svg" alt="React" height="60" />
+		<img src="https://github.com/erikateal/READMEAssets/blob/main/icons/html5.svg" alt="HTML5" height="50" />
+		&nbsp&nbsp&nbsp
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/css3.svg" alt="CSS3" height="50" />
+		&nbsp&nbsp&nbsp
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="50" />
+		&nbsp&nbsp&nbsp
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/react.svg" alt="React" height="50" />
 			</div>
 			</td>
 		<td valign="top" width="45%">
@@ -90,12 +95,15 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 			<br>
             <div align="center">
 			&nbsp
-		<img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/mongodb.svg" alt="MongoDB" height="60" />
-<!--                 &nbsp&nbsp&nbsp -->
-                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/express.svg" alt="Express" height="60" />
-                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/git.svg" alt="Git" height="60" />
-                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="60" />
-                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/nodedotjs.svg" alt="Node.js" height="60" />
+		<img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/mongodb.svg" alt="MongoDB" height="50" />
+                &nbsp&nbsp&nbsp
+                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/express.svg" alt="Express" height="50" />
+		&nbsp&nbsp&nbsp
+                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/git.svg" alt="Git" height="50" />
+		&nbsp&nbsp&nbsp
+                <img src="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg" alt="JavaScript" height="50" />
+		&nbsp&nbsp&nbsp
+                <img  src="https://github.com/erikateal/READMEAssets/blob/main/icons/nodedotjs.svg" alt="Node.js" height="50" />
 				<br>
 				<br>	
 			</div>
@@ -109,9 +117,11 @@ Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, C
 <!-- CONTACT -->
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/linkedin.svg" alt="LinkedIn: www.linkedin.com/in/erika-teal" height="50" /></a>
-    <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/twitter.svg" alt="Twitter: www.twitter.com/erikateal_" height="50" /></a>
-    <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/gmail.svg" alt="email: erikatealdev@gmail.com" height="50" /></a>
+    <a href="https://linkedin.com/in/erika-teal" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/linkedin.svg" alt="LinkedIn: www.linkedin.com/in/erika-teal" height="40" /></a>
+	                &nbsp&nbsp&nbsp
+    <a href="https://twitter.com/erikateal_" target="blank"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/twitter.svg" alt="Twitter: www.twitter.com/erikateal_" height="40" /></a>
+	                &nbsp&nbsp&nbsp
+    <a href="mailto:erikatealdev@gmail.com"><img align="center" src="https://github.com/erikateal/READMEAssets/blob/main/icons/gmail.svg" alt="email: erikatealdev@gmail.com" height="40" /></a>
 	
 </p>
 </br>
