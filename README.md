@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur">
 <br>
-Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. You're welcome to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development! 
+Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development! 
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@ Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm 
             <span> <a href="https://github.com/erikateal/setthevibe" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="https://setthevibe.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
             <p align="center">
-              Sound on! 🔊  Immersive study beats for when you need to lock in 
+              Sound on! 🔊&nbsp Immersive study beats for when you need to lock in 
             </p>
           </p>
         </td>
@@ -44,7 +44,7 @@ Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm 
             <span> <a href="https://github.com/erikateal/tictactoe" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="https://tictactoe3inarow.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center">
-              A 2–player tic-tac-toe game with win and draw validation
+              An interactive 2–player tic-tac-toe game with win and draw validation
             </p>
           </p>
         </td>
