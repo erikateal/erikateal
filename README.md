@@ -7,50 +7,49 @@
 Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. You're welcome to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development! 
 </p>
 
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikateal&hide_border=true&theme=onedark">
-</div> -->
-
-<!-- <p align="center">
-	...
-</p> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikateal&hide_border=true&currStreakNum=a6b4a2&ring=ffffff&background=12160F&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
+</div>
 </br>
 </br>
 
 <!-- PROJECTS -->
-<h2 align="center" color="white">Projects (Coming Soon...)</h2>
-<p align="center">
-	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- <h2 align="center" color="white">Projects (Coming Soon...)</h2>
+<p align="center"> -->
+<!-- 	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
-</p>
+</p> -->
 </br>
 </br>
-<!-- <h2 align="center" color="white">Projects</h2>
+
+<h2 align="center" color="white">Projects</h2>
 <div align="center">
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Sentiment Analysis</h3>
+          <h3 align="center">Set the Vibe</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/sentiment-analysis.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/setthevibe.gif" alt="Set the Vibe"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+	<a href="https://setthevibe.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
             <p align="center">
-              Generate text or input your own and your text will be identified as positive, negative, or neutral.
+              Sound on! 🔊  Immersive study beats for when you need to lock in 
             </p>
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
+          <h3 align="center">Tic Tac Toe</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/tictactoe.gif" alt="Tic Tac Toe"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+	<a href="https://tictactoe3inarow.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center">
-              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
+              A 2–player tic-tac-toe game with win and draw validation
             </p>
           </p>
         </td>
       </tr>
-      <tr>
+<!--       <tr>
         <td width="50%">
           <h3 align="center">Marvel Cinematic Universe</h3>
           <p align="center">
@@ -71,9 +70,9 @@ Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm 
             </p>
           </p>
         </td>
-      </tr>
+      </tr> -->
   </table>
-</div>	 -->
+</div>	
 
 <!-- LANGUAGES/TOOLS -->
 <h2 align="center" color="white">Languages & Tools</h2>
