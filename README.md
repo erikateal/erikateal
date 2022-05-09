@@ -29,8 +29,8 @@ Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm 
         <td width="50%">
           <h3 align="center">Set the Vibe</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/setthevibe.gif" alt="Set the Vibe"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+            <a href="https://github.com/erikateal/setthevibe" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/setthevibe.gif" alt="Set the Vibe"/> </a>
+            <span> <a href="https://github.com/erikateal/setthevibe" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="https://setthevibe.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
             <p align="center">
               Sound on! 🔊  Immersive study beats for when you need to lock in 
@@ -40,8 +40,8 @@ Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm 
         <td width="50%">
           <h3 align="center">Tic Tac Toe</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/tictactoe.gif" alt="Tic Tac Toe"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+            <a href="https://github.com/erikateal/tictactoe" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/tictactoe.gif" alt="Tic Tac Toe"/> </a>
+            <span> <a href="https://github.com/erikateal/tictactoe" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="https://tictactoe3inarow.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center">
               A 2–player tic-tac-toe game with win and draw validation
