@@ -4,8 +4,12 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur">
 <br>
-Hi there, 👋🏽 I'm a full stack software engineer currently learning HTML, CSS, JavaScript & the MERN stack @100Devs. 
+Hi there, 👋🏽  I'm a full stack software engineer based in Austin, TX. I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. You're welcome to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development! 
 </p>
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikateal&hide_border=true&theme=onedark">
+</div> -->
 
 <!-- <p align="center">
 	...
