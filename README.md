@@ -11,7 +11,6 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikateal&hide_border=true&currStreakNum=a6b4a2&ring=ffffff&background=12160F&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
 </div>
 </br>
-</br>
 
 <!-- PROJECTS -->
 <!-- <h2 align="center" color="white">Projects (Coming Soon...)</h2>
@@ -19,10 +18,8 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
 <!-- 	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
 </p> -->
-</br>
-</br>
 
-<h2 align="center" color="white">Projects</h2>
+<h2 align="center" color="white">Projects (More coming soon...)</h2>
 <div align="center">
   <table>
       <tr>
@@ -73,6 +70,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
       </tr> -->
   </table>
 </div>	
+</br>
 
 <!-- LANGUAGES/TOOLS -->
 <h2 align="center" color="white">Languages & Tools</h2>
@@ -128,20 +126,3 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
 	
 </p>
 </br>
-</br>
-
-<!-- METRICS -->
-<!-- <h2 align="center" color="white">Metrics</h2>
-<details>
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erikateal&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details>
-
-<details>
-  <summary>Most Used Languages</summary>
-
-<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikateal&layout=compact&theme=tokyonight" />
-
-</details> -->
