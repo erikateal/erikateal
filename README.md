@@ -13,11 +13,6 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
 </br>
 
 <!-- PROJECTS -->
-<!-- <h2 align="center" color="white">Projects (Coming Soon...)</h2>
-<p align="center"> -->
-<!-- 	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
-	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a>
-</p> -->
 
 <h2 align="center" color="white">Projects (More coming soon...)</h2>
 <div align="center">
@@ -48,22 +43,22 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
       </tr>
 <!--       <tr>
         <td width="50%">
-          <h3 align="center">Marvel Cinematic Universe</h3>
+          <h3 align="center">Title</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://allmcu.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="repo" alt="Repo" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live site" height="25px"></a></span>
             <p align="center">
-              View a countdown to the next MCU release, then choose an MCU movie to view more details.
+              Description.
             </p>
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">The Good Place Quotes</h3>
+          <h3 align="center">Title</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/good-place.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://thegoodplace.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="gif" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live Site" height="25px"></a> </span>
             <p align="center">
-              View quotes from your favorite character from The Good Place (or click the random button!).
+              Description.
             </p>
           </p>
         </td>
