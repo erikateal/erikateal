@@ -29,7 +29,18 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
             </p>
           </p>
         </td>
-        <td width="50%">
+	  <td width="50%">
+          <h3 align="center">Coding Resources API</h3>
+          <p align="center">
+            <a href="https://github.com/erikateal/coding-resources-api" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/codingResourcesAPI.gif" alt="Coding Resources API"/> </a>
+            <span> <a href="https://github.com/erikateal/coding-resources-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+	<a href="https://coding-resources-api.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <p align="center">
+	This API serves educational content for a wide variety of computer science topics, languages and technologies.
+            </p>
+          </p>
+        </td>
+<!--         <td width="50%">
           <h3 align="center">Tic Tac Toe</h3>
           <p align="center">
             <a href="https://github.com/erikateal/tictactoe" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/tictactoe.gif" alt="Tic Tac Toe"/> </a>
@@ -39,14 +50,36 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
               An interactive 2–player tic-tac-toe game with win and draw validation
             </p>
           </p>
+        </td> -->
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Beauty Basics</h3>
+          <p align="center">
+            <a href="https://github.com/erikateal/beauty-basics" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/beautybasics.gif" alt="Beauty Basics"/> </a>
+            <span> <a href="https://github.com/erikateal/beauty-basics" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="Repo" height ="25px"></a> <a href="https://beautybasics.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live site" height="25px"></a></span>
+            <p align="center">
+              Use this makeup API app to get some makeup inspo for your next look!
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Interview Prep Bank</h3>
+          <p align="center">
+            <a href="https://github.com/erikateal/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/erikateal/READMEAssets/blob/main/projectFiles/fullStackInterviewQuestions.gif" alt="Full Stack Web Development Interview Questions"/> </a>
+            <span> <a href="https://github.com/erikateal/interview-question-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <p align="center">
+              A full stack web dev app containing 150+ flashcards covering a large range of behavioral and technical interview questions.
+            </p>
+          </p>
         </td>
       </tr>
-<!--       <tr>
+      <!--       <tr>
         <td width="50%">
           <h3 align="center">Title</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="repo" alt="Repo" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live site" height="25px"></a></span>
+            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="Repo" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live site" height="25px"></a></span>
             <p align="center">
               Description.
             </p>
@@ -56,7 +89,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
           <h3 align="center">Title</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="gif" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live Site" height="25px"></a> </span>
+            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live site" alt="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" height="25px"></a> </span>
             <p align="center">
               Description.
             </p>
